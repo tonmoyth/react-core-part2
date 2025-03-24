@@ -35,6 +35,9 @@
 
 .card {
   padding: 2em;
+  border: 2px solid tomato;
+  border-radius: 10px;
+  margin-top: 20px;
 }
 
 .read-the-docs {
